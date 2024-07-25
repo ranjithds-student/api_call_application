@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">API  call Application</string>
+    <string name="make_api_call">MAKE API CALL</string>
+    <string name="api_call_appears_here">Api call appears here</string>
+    <string name="api_result_here">Api result here</string>
+    <string name="api_call">API CALL</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="user_id">user id</string>
+    <string name="id">id</string>
+    <string name="api_fetch_application">API fetch Application</string>
+    <string name="login">Login</string>
+</resources>
