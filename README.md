@@ -14,8 +14,6 @@ Gradle: Used for building the project.
 Installation
 Clone the Repository:
 
-sh
-Copy code
 git clone https://github.com/your-username/api-call-application.git
 Open in Android Studio:
 
